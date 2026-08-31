@@ -24,9 +24,11 @@ This project fetches real-time weather data for any city using a Weather API and
 
 A full explanation and walkthrough of this project is available here:
 
-▶️ **[Watch the Explanation Video](#)**  
+▶️ **[Watch the Explanation Video](https://drive.google.com/file/d/1urP77WSTxRZ8xqq784eU3I7kM6h87818/view?usp=sharing)**  
 
 ---
+
+Netlify Link For Live Project :- https://glittery-platypus-2bd959.netlify.app/
 
 ## 🛠️ Tech Stack
 
@@ -55,10 +57,8 @@ cd weather-api
 
 ### 3. Add your API Key
 
-Open the JavaScript file (e.g. `script.js`) and replace the placeholder with your own API key:
-
 ```javascript
-const API_KEY = "YOUR_API_KEY_HERE";
+const APIKEY = "3d3a48958433692073a506ba2dbeb24a";
 ```
 
 > 🔑 You can get a free API key from [OpenWeatherMap](https://openweathermap.org/api) or the weather API provider of your choice.
