@@ -24,7 +24,7 @@ This project fetches real-time weather data for any city using a Weather API and
 
 A full explanation and walkthrough of this project is available here:
 
-▶️ **[Watch the Explanation Video]([https://drive.google.com/file/d/1urP77WSTxRZ8xqq784eU3I7kM6h87818/view?usp=sharing](https://drive.google.com/drive/folders/1-oVZ6yrhCV3-jT_z4BQS2qYvnvoN0RJZ))**  
+▶️ **[Watch the Explanation Video](https://drive.google.com/drive/folders/1-oVZ6yrhCV3-jT_z4BQS2qYvnvoN0RJZ)**  
 
 ---
 
