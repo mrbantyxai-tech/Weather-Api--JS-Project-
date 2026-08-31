@@ -25,7 +25,6 @@ This project fetches real-time weather data for any city using a Weather API and
 A full explanation and walkthrough of this project is available here:
 
 ▶️ **[Watch the Explanation Video](#)**  
-*(Replace the `#` above with your actual video link — YouTube, Google Drive, etc.)*
 
 ---
 
@@ -45,7 +44,7 @@ Follow these steps to run the project on your local machine.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/weather-api.git
+git clone https://github.com/mrbantyxai-tech/Weather-Api--JS-Project-
 ```
 
 ### 2. Navigate to the project folder
